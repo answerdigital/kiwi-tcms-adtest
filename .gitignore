@@ -2,3 +2,6 @@
 .terraform.lock.hcl
 state-manager/.terraform/*
 **/terraform.tfstate
+
+.idea
+*.pem
